@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deneme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/deneme/static/js/main.26f64fad.chunk.js",
+    "main.js.map": "/deneme/static/js/main.26f64fad.chunk.js.map",
+    "runtime-main.js": "/deneme/static/js/runtime-main.8609b107.js",
+    "runtime-main.js.map": "/deneme/static/js/runtime-main.8609b107.js.map",
+    "static/js/2.eb7dced0.chunk.js": "/deneme/static/js/2.eb7dced0.chunk.js",
+    "static/js/2.eb7dced0.chunk.js.map": "/deneme/static/js/2.eb7dced0.chunk.js.map",
+    "index.html": "/deneme/index.html",
+    "precache-manifest.965bc2eb964758a4f5b32f89058c6138.js": "/deneme/precache-manifest.965bc2eb964758a4f5b32f89058c6138.js",
+    "service-worker.js": "/deneme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/deneme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eb7dced0.chunk.js.LICENSE.txt": "/deneme/static/js/2.eb7dced0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deneme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8609b107.js",
+    "static/js/2.eb7dced0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.26f64fad.chunk.js"
+  ]
+}
