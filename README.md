@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 See deployed version in here: [https://hakantaylan.github.io/deneme/](https://hakantaylan.github.io/deneme/)
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
